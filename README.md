@@ -1,4 +1,4 @@
-# Database Table
+# Table Database
 Di sini saya akan membuat tabel yang akan mempresentasikan Database tentang nasabah yang akan mengirim uang melalui Teller ke bank lain. Tabelnya akan saya buat di web phpmyadmin.
 
 # Nasabah
