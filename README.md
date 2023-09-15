@@ -49,6 +49,11 @@ Code di atas berfungsi untuk membuat tabel dengan nama transfer serta variabel N
 
 Gambar di atas merupakan tampilan dari struktur tabel jika dilihat pada web phpmyadmin. Primary key dari tabel ini sudah sesuai dengan table raw tadi dan juga No_Rek sebagai Foreign key. Struktur dari tabel di atas sudah sesuai dengan acuan yang saya buat pada Word tadi. Untuk melihat tabel transfer yang sudah diberikan value tiap variabelnya bisa dilihat pada gambar di bawah ini.
 
+![image](https://github.com/Ridhohertaputra/Database-Table/assets/131152285/4f7d9ed6-59ef-412e-af8e-47ba89dbaaa9)
+
+Gambar di atas merupakan tampilan dari tabel yang sudah diberi values, untuk No_Rek karena foreign key dari No_Rek yang ada di tabel nasabah jadi otomatis sudah terinput dan bisa kita pilih pada sat kita ingin memasukkan No_Rek nasabah.
+
+Mungkin itu saja penjelasan dari saya tentang pembuatan dan insert values ke dalam tabel pada web phpmyadmin. Saya ucapkan Terima Kasih
 
 
 
